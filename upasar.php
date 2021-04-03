@@ -3,7 +3,7 @@
   <div class="text-right">
     <a href="<?=base_url('notes')?>" class="btn btn-outline-dark btn-sm"><i class="fa fa-angle-left"> </i> Back</a>
   </div>
-  <h4><?='Note Edit';?></h4>
+  <h4><?='Note gjsfgtebsjhekgihe';?></h4>
   <hr>
   <form method="POST" action="<?=base_url('notes_update')?>" accept-charset="UTF-8" enctype="multipart/form-data">
     <input type="hidden" name="id" value="<?= $note['id'];?>">
